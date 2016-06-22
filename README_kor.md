@@ -22,11 +22,11 @@ $ git clone https://github.com/inplusweb/sCarousel.git
 
 
 ## 버전 관리
-sCarousel은 시맨틱 버전 지침을 따릅니다. 버전은 다음과 같은 형식을 따릅니다:
+sCarousel은 시맨틱 버전 지침을 따릅니다. 버전은 다음과 같은 형식을 따릅니다.
 
 `<major>.<minor>.<patch>`
 
-시멘틱버전에 관한 자세한 정보는 링크를 확인하시기 바랍니다. http://semver.org/
+시멘틱버전에 관한 자세한 정보는 링크를 확인하시기 바랍니다. http://semver.org/.
 
 
 ## 운영자
