@@ -8,8 +8,11 @@ To get stared, check out [http://inplusweb.github.io/sCarousel](http://inplusweb
 
 ## Quick start
 - [Download the latest release](https://github.com/inplusweb/sCarousel/archive/master.zip)
-- Clone the repo: `git clone https://github.com/inplusweb/sCarousel.git`
+- Clone the repo:
 
+```
+$ git clone https://github.com/inplusweb/sCarousel.git
+```
 
 Read the [Get started page](http://inplusweb.github.io/sCarousel/started.html) for information on the contents and examples, and more.
 
@@ -19,7 +22,7 @@ Read the [Get started page](http://inplusweb.github.io/sCarousel/started.html) f
 
 
 ## Versioning
-sCarousel library will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered with the following format:
+sCarousel library will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered with the following format.
 
 `<major>.<minor>.<patch>`
 
