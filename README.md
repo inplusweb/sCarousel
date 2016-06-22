@@ -3,7 +3,7 @@
 
 sCarousel is a jQuery plugin for controlling a list of items in horizontal or vertical order. It is considered web accessibility, such as keyboard navigation screen reader compatibility, created by programmer [Ma Yongmin](https://github.com/milgam12), and maintained by [Inplus](http://www.inplusweb.com).
 
-To get stared, check out [http://inplusweb.github.io/sCarousel](http://inplusweb.github.io/sCarousel)!
+To get stared, check out [http://inplusweb.github.io/sCarousel](http://inplusweb.github.io/sCarousel).
 
 
 ## Quick start
