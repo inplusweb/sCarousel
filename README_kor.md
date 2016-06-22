@@ -1,7 +1,7 @@
 # [sCarousel](http://inplusweb.github.io/sCarousel)
 [한글 문서 바로가기 →](https://github.com/inplusweb/sCarousel/blob/master/README_kor.md)
 
-sCarousel은 목록내의 요소들을 가로 또는 세로 방향으로 제어할 수 있는 jQuery 플러그인입니다. 키보드 탐색, 스크린 리더기 적합성과 같은 웹접근성을 고려하였으며, 프로그래머 [마용민](https://github.com/milgam12)가 제작하였고 [인플러스](http://www.inplusweb.com/)에서 운영합니다.
+sCarousel은 목록내의 요소들을 가로 또는 세로 방향으로 제어할 수 있는 jQuery 플러그인입니다. 키보드 탐색, 스크린 리더기 적합성과 같은 웹접근성을 고려하였으며, 프로그래머 [마용민](https://github.com/milgam12)이 제작하였고 [인플러스](http://www.inplusweb.com/)에서 운영합니다.
 
 [sCarousel 공식사이트](http://inplusweb.github.io/sCarousel/)에서 자세한 내용을 볼 수 있습니다.
 
