@@ -14,7 +14,7 @@ sCarousel은 목록내의 요소들을 가로 또는 세로 방향으로 제어�
 $ git clone https://github.com/inplusweb/sCarousel.git
 ```
 
-공식홈페이지 [Get started page](http://inplusweb.github.io/sCarousel/started.html)페이지에서 자세한 사용방법을 확인할 수 있습니다.
+공식홈페이지 [Get started page](http://inplusweb.github.io/sCarousel/started.html) 페이지에서 자세한 사용방법을 확인할 수 있습니다.
 
 
 ## 변경 이력
