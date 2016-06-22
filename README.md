@@ -7,15 +7,15 @@ To get stared, check out [http://inplusweb.github.io/sCarousel](http://inplusweb
 
 
 ## Quick start
-- [Download the latest release](https://github.com/inplusweb/sCarousel/archive/master.zip).
-- Clone the repo: `git clone https://github.com/inplusweb/sCarousel.git`.
+- [Download the latest release](https://github.com/inplusweb/sCarousel/archive/master.zip)
+- Clone the repo: `git clone https://github.com/inplusweb/sCarousel.git`
 
 
 Read the [Get started page](http://inplusweb.github.io/sCarousel/started.html) for information on the contents and examples, and more.
 
 
 ## Changelog
-- v1.0 - The first released version.
+- v1.0 - The first released version
 
 
 ## Versioning
@@ -23,7 +23,7 @@ sCarousel library will be maintained under the Semantic Versioning guidelines as
 
 `<major>.<minor>.<patch>`
 
-for more information on SemVer, please visit http://semver.org/
+for more information on SemVer, please visit http://semver.org/.
 
 
 ## Maintainors
