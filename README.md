@@ -1,4 +1,4 @@
-# sCarousel- Riding carousels with jQuery.
+# sCarousel(http://inplusweb.github.io/sCarousel)
 [한글 문서 바로가기 →](https://github.com/inplusweb/sCarousel/blob/master/README_kor.md)
 ========================================
 
